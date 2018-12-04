@@ -1,5 +1,7 @@
 # GitGraph
 
+**The Project GitGraphServer can be accessed at https://github.com/xuanyi531/GitGraphServer.**
+
 Knowledge Graph for Commit History of a Git repository. 
 
 The project is built with Maven. "Main" is the entry class.
